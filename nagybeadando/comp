@@ -1,0 +1,2 @@
+clear
+gcc -g -o main -Wall --pedantic main.c && valgrind ./main
